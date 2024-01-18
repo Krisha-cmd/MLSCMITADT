@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mlscmitadt/static/css/main.677678b1.css",
+    "main.css": "/mlscmitadt/static/css/main.b832f09f.css",
     "main.js": "/mlscmitadt/static/js/main.fd76a17b.js",
     "static/js/787.29adc674.chunk.js": "/mlscmitadt/static/js/787.29adc674.chunk.js",
     "static/media/MLSA.png": "/mlscmitadt/static/media/MLSA.2c55d01628ffe3a297ed.png",
@@ -14,12 +14,12 @@
     "static/media/figma.png": "/mlscmitadt/static/media/figma.9adea96ce0fa2e1ff586.png",
     "static/media/logo.svg": "/mlscmitadt/static/media/logo.1d87adb75dfe2b1eebe58538e492116a.svg",
     "index.html": "/mlscmitadt/index.html",
-    "main.677678b1.css.map": "/mlscmitadt/static/css/main.677678b1.css.map",
+    "main.b832f09f.css.map": "/mlscmitadt/static/css/main.b832f09f.css.map",
     "main.fd76a17b.js.map": "/mlscmitadt/static/js/main.fd76a17b.js.map",
     "787.29adc674.chunk.js.map": "/mlscmitadt/static/js/787.29adc674.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.677678b1.css",
+    "static/css/main.b832f09f.css",
     "static/js/main.fd76a17b.js"
   ]
 }
